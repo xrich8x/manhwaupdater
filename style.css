@@ -11,10 +11,6 @@ header {
     text-align: left; /* Align the text to the left within the header */
 }
 
-h1 {
-    color: #FF4500; /* Set the header text color to orange-red */
-    margin: 0; /* Remove default margin to prevent spacing */
-}
 
 section {
     margin-top: 20px;
