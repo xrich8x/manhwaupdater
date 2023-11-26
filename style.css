@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 40px;
+    margin: 0;
     text-align: center;
     background-color: black;
     color: white;
@@ -8,7 +8,7 @@ body {
 
 header {
     padding: 20px;
-    text-align: left; /* Align the text to the left within the header */
+    text-align: left;
 }
 
 
