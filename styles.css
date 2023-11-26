@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+header {
+    padding: 20px;
+    text-align: left;
+}
+
+
+section {
+    margin-top: 20px;
+}
