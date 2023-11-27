@@ -15,10 +15,6 @@ h1 {
     margin: 0;
 }
 
-section {
-    margin-top: 20px;
-}
-
 .lower-section {
     background-color: white; /* White background color for the lower section */
 }
@@ -29,7 +25,16 @@ table {
     margin-top: 20px;
 }
 
-th, td {
+th {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    background-color: black; /* Black background color for the header row */
+    color: white; /* Text color for the header row */
+}
+
+/* Style for table cells (data) */
+td {
     border: 1px solid black;
     padding: 8px;
     text-align: left;
