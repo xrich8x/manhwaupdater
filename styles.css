@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     text-align: center;
-    background-color: black;
+    background-color: azure;
     color: white;
 }
 
@@ -23,7 +23,7 @@ table {
 }
 
 th {
-    border: 1px solid black;
+    border: 1px white;
     padding: 8px;
     text-align: center;
     background-color: black; /* Black background color for the header row */
