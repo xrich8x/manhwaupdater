@@ -13,22 +13,22 @@
     
     <!-- Lower Section with Table -->
     <div class="lower-section">
-        <table>
-            <!-- Your table content goes here -->
+        <table id="mangaTable">
+            <!-- Table headers -->
             <tr>
                 <th>Name</th>
                 <th>Website</th>
-				<th>Last Updated</th>
-				<th>Last Opened</th>
+                <th>Last Updated</th>
+                <th>Last Opened</th>
                 <!-- Add more columns as needed -->
             </tr>
-			<tr>
-                <td>Data 1</td>
-                <td>Data 2</td>
-				<td>Data 3</td>
-                <!-- Add more data rows as needed -->
-            </tr>
         </table>
+        
+        <!-- Add Data Button -->
+        <button onclick="addData()">Add Data</button>
     </div>
+
+    <!-- Script to handle dynamic data addition -->
+    <script src="script.js" defer></script>
 </body>
 </html>
