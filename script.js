@@ -15,3 +15,4 @@ function addData() {
         var cell = newRow.insertCell(i);
         cell.innerHTML = data[i];
     }
+}
