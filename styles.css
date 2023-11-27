@@ -19,11 +19,6 @@ section {
     margin-top: 20px;
 }
 
-.lower-section {
-    padding: 20px;
-    background-color: white; /* White background color for the lower section */
-    color: black; /* Text color for the lower section, you can adjust as needed */
-}
 
 table {
     width: 100%;
