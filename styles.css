@@ -11,8 +11,16 @@ header {
     text-align: left;
 }
 
+h1 {
+    margin: 0;
+}
 
 section {
     margin-top: 20px;
-	text-align: left;
+}
+
+.lower-section {
+    padding: 20px;
+    background-color: #333; /* Dark background color for the lower section */
+    color: white; /* Text color for the lower section */
 }
