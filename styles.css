@@ -2,7 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     text-align: center;
-    background-color: #007FFF;
+    background-color: #F0FFFF
+;
     color: white;
 }
 
@@ -23,10 +24,10 @@ table {
 }
 
 th {
-    border: 1px white;
+    border: 1px solid black;
     padding: 8px;
     text-align: center;
-    background-color: #778899	; /* Black background color for the header row */
+    background-color: #DEB887	; /* Black background color for the header row */
     color: black; /* Text color for the header row */
 }
 
@@ -35,6 +36,6 @@ td {
     border: 1px solid black;
     padding: 8px;
     text-align: left;
-	background-color: #778899	;
+	background-color: #DEB887	;
 	color: black;
 }
