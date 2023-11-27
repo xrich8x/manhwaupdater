@@ -19,6 +19,9 @@ section {
     margin-top: 20px;
 }
 
+.lower-section {
+    background-color: white; /* White background color for the lower section */
+}
 
 table {
     width: 100%;
