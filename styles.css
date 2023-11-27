@@ -23,7 +23,7 @@ table {
 }
 
 th {
-    border: 1px white;
+    border: 1px solid black;
     padding: 8px;
     text-align: center;
     background-color: black; /* Black background color for the header row */
@@ -32,7 +32,8 @@ th {
 
 /* Style for table cells (data) */
 td {
-    border: 1px white;
+    border: 1px solid black;
     padding: 8px;
     text-align: left;
+	color: black;
 }
